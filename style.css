@@ -1,13 +1,21 @@
+body {
+    margin: 0px;
+}
+
 #navbar{
     position: fixed;
-    margin-top: 15px;
-    right: 100px;
+    top:0;
+  margin: 0px;
+    /* right: 100px; */
 
 }
 
 
 #welcome-section{
     
-    height: 100vw;
+    height: 100vh;
 }
 
+#viewport{
+    height: 100vh;
+}
