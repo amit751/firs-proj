@@ -1,12 +1,10 @@
-body {
-    margin: 0px;
-}
 
 #navbar{
     position: fixed;
     top:0;
-  margin: 0px;
-    /* right: 100px; */
+
+  
+    right: 100px;
 
 }
 
@@ -18,4 +16,47 @@ body {
 
 #viewport{
     height: 100vh;
+}
+
+h1{
+    font-size: 3em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cornflowerblue;
+    
+
+    
+}
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: darkgray;
+    
+}
+
+p{
+    font-size: 1.6em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    background-color: white;
+    border-left: darkviolet solid 6px;
+    
+}
+
+
+.container-all{
+    background-color: white;
+    border-left: rgb(0, 134, 211) solid 6px;
+}
+
+img{
+    width: 20em;
+}
+
+#welcome-section{
+    border-left: rgb(0, 211, 18) solid 6px;
+
+}
+
+#test{
+    border-left: rgb(231, 86, 18) solid 6px;
 }
